@@ -28,7 +28,7 @@ a,
 .theme-hover:hover,
 .owl-nav > div,
 .theme-bg {
-  background-image: linear-gradient(to right, #0020dd, #0575E6);
+  background-image: linear-gradient(to right, #9105b4, #0575E6);
 }
 .btn-theme:hover{
   background-image: linear-gradient(to right, #0575E6, #0575E6);
@@ -40,7 +40,7 @@ a,
 } 
 
 .theme-color-g {
-  background: linear-gradient(to right, #0575E6, #0575E6);
+  background: linear-gradient(to right, #9105b4, #0575E6);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
